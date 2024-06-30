@@ -1,6 +1,6 @@
 # Accenture Social Buzz
 
-This is the final assigment project of [Data Analytics and Visualization internship] (https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb)sponsered by Accenture.
+This is the final assigment project of [Data Analytics and Visualization internship](https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb) sponsered by Accenture.
 
 
 - [Final Excel](https://docs.google.com/spreadsheets/d/1IowRAmR7D_5npySugveWUaCxs2SuY9AQbyi7EPs5F8o/edit?usp=sharing)
